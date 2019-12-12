@@ -16,5 +16,7 @@ public class Simple {
         }
 
         System.out.println("Goodbye");
+        return;
+        
     }
 }

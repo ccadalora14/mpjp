@@ -2,7 +2,7 @@ package s043;
 
 public class SwitchInt {
     public static void main(String[] args) {
-        int value = 42;
+        int value = 1;
 
         // ...
 
@@ -12,7 +12,7 @@ public class SwitchInt {
             break;
         case 2:
             System.out.println("value is two");
-            break;
+            break;       
         default:
             System.out.println("value is neither one nor two");
             break;

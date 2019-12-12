@@ -8,6 +8,8 @@ public class If {
             System.out.println("only if condition is true");
         }
 
-        System.out.println("always printed");
+        System.out.println("always printed");{
+        	
+        }
     }
 }
