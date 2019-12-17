@@ -23,7 +23,8 @@ public class AboutString {
         System.out.println("u equals u2? " + u.equals(u2));
         System.out.println("u == u2? " + (u == u2));
 
-        System.out.println("First index of 'l' is s: " + s.indexOf('l'));
+        System.out.println("First ind"
+        		+ "ex of 'l' is s: " + s.indexOf('l'));
         System.out.println("Last index of 'l' is s: " + s.lastIndexOf('l'));
         System.out.println("there is no 'x' in s: " + s.indexOf('x'));
         System.out.println("in s \"ll\" starts at " + s.indexOf("ll"));
