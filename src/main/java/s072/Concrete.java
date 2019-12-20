@@ -5,8 +5,8 @@ package s072;
 //}
 
 public class Concrete extends Abstract {
-    @Override
-    public void anAbstractMethod() {
-        System.out.println("not abstract anymore");
-    }
+	@Override // indiciazione per ricordare che il metodo Abstract è stato ripreso
+	public void anAbstractMethod() {
+		System.out.println("not abstract anymore");
+	}
 }
